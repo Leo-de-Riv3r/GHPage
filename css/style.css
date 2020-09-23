@@ -1,0 +1,10 @@
+@font-face {
+    font-family: "Corvinus Skyline ICG";
+    src: url("Corvinus Skyline ICG.ttf");
+  }
+  
+  h1 {
+    font-family: "Corvinus Skyline ICG";
+    font-size:1000%;
+    line-height: 1%;
+  }  
